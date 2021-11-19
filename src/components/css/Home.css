@@ -1,0 +1,108 @@
+.games {
+    background-color: #0b1421;
+}
+
+.gameLink {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.gameP {
+    color: white;
+    text-align: center;
+    margin-top: 4px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+}
+
+.right {
+    background-color: rgb(31, 31, 31);
+    text-align: center;
+    color: white;
+}
+
+.haloBanner {
+    padding: 0 !important;
+}
+
+.rightP {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.playNowBtn {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.signUpNowBtn {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.rightH2 {
+    margin-top: 20px;
+}
+.rightH1 {
+    margin-top: 20px;
+}
+
+.tournyHeader {
+    text-align: center;
+}
+
+.tournySection {
+    background-color: #0b1421;
+    height: 700px;
+}
+
+.tournyh1 {
+    color: white;
+    margin-top: 50px;
+    font-size: 70px;
+}
+
+.tournyCard {
+    background-color: rgb(31, 31, 31);
+    border-radius: 2px;
+    color: white;
+    height: 450px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tournamentsRow {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tournyImg {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 200px;
+    width: auto;
+}
+
+ul {
+    list-style: none;
+    font-size: 15px;
+}
+
+.date {
+    color: green;
+}
+
+.time {
+    color: red;
+}
+
+.logo {
+    font-style: italic;
+}

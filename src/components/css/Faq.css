@@ -1,0 +1,21 @@
+.faqMain {
+    background-color: #0b1421;
+    height: 100%;
+    text-align: center;
+}
+
+.faqHeader {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.faqh1 {
+    font-size: 100px;
+    color: white;
+}
+
+.faqTable {
+    margin-bottom: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,17 @@
+body {
+  font-family: "Bebas Neue", cursive !important;
+}
+
+.navbar {
+  background-color: #1e222a;
+  border-bottom: 3px solid #1367e2;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 25px;
+}
+
+.userInfo {
+  justify-content: end !important;
+}
